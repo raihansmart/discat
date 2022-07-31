@@ -1,4 +1,4 @@
-module dw1.みんな/discat
+module github.com/raihansmart/discat
 
 go 1.13
 
