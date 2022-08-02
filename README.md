@@ -7,7 +7,7 @@ A customised script made by me of sending messages from the CLI output to your D
 ## Installation
 
 - Download a prebuilt binary from [releases page](https://github.com/dwisiswant0/discat/releases/latest), unpack and run! or
-- If you have go1.13+ compiler installed: `go install github.com/raihansmart/discat@latest`.
+- If you have go1.15+ compiler installed: `go install github.com/raihansmart/discat@latest`.
 
 ## Configuration
 
