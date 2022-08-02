@@ -1,7 +1,8 @@
 # discat
 
-A simple way of sending messages from the CLI output to your Discord channel with webhook.
-> Actually, this is a fork version of [slackcat](https://github.com/dwisiswant0/slackcat) that I made too!
+References : https://github.com/dwisiswant0/discat (Original)
+
+A customised script made by me of sending messages from the CLI output to your Discord channel with webhook in order to match with the latest version of golang.
 
 ## Installation
 
